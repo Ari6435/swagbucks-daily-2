@@ -13,7 +13,7 @@ q_a = db["question_answer"]
 
 
 data ={}
-hook_url = "https://discord.com/api/webhooks/950035026425298954/pmYwaF8TLkDo4lq8cumz0BLqX7ak7Z6ATJHyww4rRfI9X8iJsIjhF-lsw-cv3IMhqGLg"
+hook_url = "https://discord.com/api/webhooks/1117823682052624444/etY5xJgAc3SpLPSGcqDTyfAq_Uv0Piwu3YijbzeMHI2VcBrFC6_MTpXqW8Ej59JJcrGV"
 main_api_endpoint = 'https://api.playswagiq.com/dailygame'
 hook2 = Webhook(hook_url)
 T1 = []
